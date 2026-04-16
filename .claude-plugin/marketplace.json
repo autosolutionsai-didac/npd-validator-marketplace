@@ -1,17 +1,17 @@
-{
+﻿{
   "name": "autosolutions-plugins",
   "owner": {
     "name": "AutoSolutions.ai",
     "email": "didac@autosolutions.ai"
   },
   "metadata": {
-    "description": "Production AI plugins from AutoSolutions.ai — rigorous, tested, evidence-based tools for real business problems.",
+    "description": "Production AI plugins from AutoSolutions.ai â€” rigorous, tested, evidence-based tools for real business problems.",
     "version": "1.0.0"
   },
   "plugins": [
     {
       "name": "npd-validator",
-      "source": "./plugins/npd-validator",
+      "source": "./npd-validator",
       "description": "Multi-agent New Product Development validation pipeline. Orchestrates 8 specialized subagents (Research Coordinator, 5 Independent Evaluators, Devil's Advocate, Consensus Director) to produce evidence-based GO / CONDITIONAL GO / REVISIT / NO-GO recommendations for consumer product concepts.",
       "version": "1.0.0",
       "author": {
